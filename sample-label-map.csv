@@ -1,0 +1,8 @@
+# Label map: id,aisle,modular
+# id = Link ID as printed on the label (dash optional), or a MAC address / MAC prefix.
+# modular is optional. Lines starting with # are ignored. No commas inside values.
+id,aisle,modular
+1H-234567,A3,M2
+1H-234568,A3,M3
+0G-123456,B1,M1
+AA:BB:CC:DD:EE:01,C7,M4
